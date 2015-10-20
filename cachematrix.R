@@ -1,10 +1,10 @@
+
+## author: burtr (after a template of rdpeng)
+## created: 20 oct 2015
+## last-update: 20 oct 2015
+
 ## These functions implement a matrix-with-cached-inverse
 ## object.
-
-
-## author: burtr
-## (after template of rdpeng)
-## date: oct 2015
 
 ## makeCacheMatrix takes an optional operation and
 ## creates a matrix-with-cached-inverse object. 
